@@ -39,5 +39,5 @@ Tải mã nguồn về và mở file `index.html` bằng trình duyệt, không 
 
 ## Liên kết
 - Figma: https://www.figma.com/design/abSUKf6sJZJKRza0ydnts2/Untitled?node-id=0-1&m=dev&t=iRQ68bHLCfzcg9aj-1
-- Video: (dán link video)
+- Video: https://youtu.be/sCQYQAmc_Q8
 - GitHub: https://github.com/VuNangKy/V-N-ng-K--fitplan-studio-coach
